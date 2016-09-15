@@ -1,0 +1,64 @@
+body{
+	padding-top: 70px;
+	width: 100%;
+	height: 100%;
+	width: 100%;
+    height: 100%;
+	font-family: Papyrus,fantasy;
+}
+
+a{
+	color: #00B7FF;
+}
+
+.btn-primary,
+.btn-primary:active,
+.btn-primary:visited {
+	background-color: #FF858B;
+    border-color: #FF858B;
+}
+.btn-primary:focus,
+.btn-primary:hover {
+    background-color: #ff6d8b;
+    border-color: #ff6d8b;
+}
+
+.submit-btn{
+	background-color: #F2666C;
+	margin: 10px 0 10px 0;
+}
+
+.submit-btn:hover {
+	background-color: #FF858B;
+	margin: 10px 0 10px 0;
+}
+
+
+
+.post{
+	padding: 10px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
+
+.odd{
+	background-color: #FF858B; 
+}
+
+.odd:hover {
+	background-color: #FFA0A5;
+}
+
+.even{
+	background-color: #F9D9DF; 
+}
+
+.even:hover {
+	background-color: #FFD0D9;
+}
+
+.form-auth{
+	max-width: 330px;
+	padding: 5px;
+	margin: 0 auto;
+}
